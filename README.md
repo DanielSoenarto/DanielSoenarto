@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Programming Skills<br>🤝 I’m looking to collaborate on any Bioinformatics-related projects<br>🌱 I’m currently learning Python, R, SQL, Bash
+🔭 I’m currently working on my Programming Skills<br>🤝 I’m looking to collaborate on any Bioinformatics-related projects<br>🌱 I’m currently learning Python, R, SQL, Bash
 
 
 ## 🌐 Socials:
